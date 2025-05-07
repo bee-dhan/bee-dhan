@@ -1,10 +1,12 @@
 
+![image](https://github.com/user-attachments/assets/9795c342-a960-4096-8d8c-b41ed21471c9)
 
-# 👨‍💻 Bidhan Bhandari
+
 
 **📍 From Nepal | 💻 Aspiring Software Engineer | 🎓 CS Undergrad**
 
 ---
+
 
 ## 👋 About Me
 
