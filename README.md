@@ -1,6 +1,3 @@
-Here’s a clean and professional GitHub README.md you can use, Mr. Bidhan:
-
-⸻
 
 
 # 👨‍💻 Bidhan Bhandari
